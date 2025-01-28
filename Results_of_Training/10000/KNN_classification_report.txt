@@ -1,0 +1,18 @@
+                  precision    recall  f1-score   support
+
+          BENIGN       0.76      0.67      0.71      1989
+             Bot       0.75      0.60      0.66       384
+            DDoS       0.80      0.77      0.79      2048
+   DoS GoldenEye       0.92      0.94      0.93      2041
+        DoS Hulk       0.84      0.92      0.88      1957
+DoS Slowhttptest       0.95      0.92      0.93      1123
+   DoS slowloris       0.94      0.88      0.91      1110
+     FTP-Patator       0.96      0.99      0.97      1599
+      Heartbleed       1.00      1.00      1.00         1
+    Infiltration       0.00      0.00      0.00        10
+        PortScan       0.90      0.97      0.94      1957
+     SSH-Patator       0.86      0.92      0.89      1210
+
+        accuracy                           0.87     15429
+       macro avg       0.81      0.80      0.80     15429
+    weighted avg       0.87      0.87      0.87     15429
