@@ -1,2 +1,2 @@
-# Heterogenous_Network_Anomaly_Detection_Using_Feature_Fusion_Techniques
+# Heterogenous_Network_Anomaly_Detection_Using_Machine_Learning_and_Feature_Fusion_Techniques
 Mini-Project (B2)
