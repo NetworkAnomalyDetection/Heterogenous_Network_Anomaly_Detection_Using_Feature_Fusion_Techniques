@@ -1,3 +1,4 @@
+#This file is useful for extracting top 10 features which have greater importance in determining the probability of the transaction being anamolous
 import pandas as pd
 import numpy as np
 import time
